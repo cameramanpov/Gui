@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+#toolbar {
+    display: none;
+}
+
+#content img {
+    width: 200px;
+    margin-top: 20px;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
